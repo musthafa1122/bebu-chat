@@ -1,0 +1,34 @@
+{
+  "name": "bebu-chat",
+  "version": "1.0.0",
+  "description": "bebu's chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musthafa1122/bebu-chat.git"
+  },
+  "keywords": [
+    "bebu",
+    "chat",
+    "online",
+    "react",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Muhammed Musthafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musthafa1122/bebu-chat/issues"
+  },
+  "homepage": "https://github.com/musthafa1122/bebu-chat#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.9.8",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10"
+  }
+}
